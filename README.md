@@ -4,12 +4,12 @@ sd_ex
 showdown.js markdown render for syntaxhighlighter to suit  its code block style
 
 
-===Feature
+###Feature
 
 + modified showdown.js for markdown-code-rendering by [syntaxHighlighter](https://github.com/alexgorbatchev/syntaxhighlighter)
 + because of my lacking in javascript, i didn't write a plugin for showdown.js
 
-===Usage
+###Usage
 
 + Just follow the [showdown guide](https://github.com/alexgorbatchev/syntaxhighlighter).
 But you should use my js file like this:
