@@ -11,7 +11,7 @@ showdown.js markdown render for syntaxhighlighter to suit  its code block style
 
 ###Usage
 
-+ Just follow the [showdown guide](https://github.com/alexgorbatchev/syntaxhighlighter).
++ Just follow the [showdown guide](https://github.com/coreyti/showdown).
 But you should use my js file like this:
 ```html
 <script src="js/showdown/compressed/showdown.syntaxhighter.js"></script>
